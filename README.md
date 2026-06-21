@@ -157,3 +157,17 @@ Overall, the results highlight the importance of preprocessing, transformation c
 This repository is intended as a clean and shareable version of the project.
 
 Large intermediate files, cached model outputs, trained models and personal thesis documents are not included in this repository.
+
+---
+
+## 11. Author and Copyright
+
+Author: Hugo Miguel Val de Ramos
+
+This repository contains code and materials developed as part of an academic dissertation on Bitcoin volatility forecasting.
+
+Unless otherwise stated, the code and documentation in this repository are authored by Hugo Miguel Val de Ramos.
+
+All rights reserved.
+
+This repository is made publicly available for academic, portfolio and transparency purposes. Reuse, redistribution or modification of the code should only be made with proper attribution and, where necessary, prior permission from the author.
