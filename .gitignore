@@ -1,0 +1,71 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python packaging
+
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
+
+*.log
+*.tmp
+*.temp
+
+# Heavy model outputs and cached results
+
+*.pkl
+*.pkl.gz
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Large generated model-result folders
+
+results/Tese_ARCH_results/
+results/Tese_ARIMA_results/
+results/Tese_ETS_results/
+results/Tese_LSTM_results/
+results/Tese_SVR_results/
+
+# Processed/intermediate data
+
+data/processed/
+data/intermediate/
+
+# Personal documents
+
+*.doc
+*.docx
+*.pdf
+~$*
+
+# Private/internal documentation files
+
+docs/chat_restart_guide.md
+docs/thesis_context_summary.md
+docs/calculation_reference.md
+docs/results_summary.md
+README_OneDrive_Tese.md
