@@ -1,0 +1,32 @@
+cff-version 1.2.0
+message If you use this repository, please cite it as below.
+
+title Bitcoin Volatility Forecasting
+type software
+
+authors
+
+ family-names Val de Ramos
+  given-names Hugo Miguel
+
+abstract Code and supporting materials for a dissertation project on Bitcoin volatility forecasting, comparing time-series, econometric, machine learning and deep learning models under a common forecasting framework.
+
+keywords
+
+ Bitcoin
+ volatility forecasting
+ time series
+ ARIMA
+ ETS
+ ARCH
+ GARCH
+ support vector regression
+ LSTM
+ machine learning
+ deep learning
+ Python
+
+repository-code: "https://github.com/HRam0s0/Tese_Bitcoin_volatility_clean"
+
+version 1.0.0
+date-released 2026-06-21
