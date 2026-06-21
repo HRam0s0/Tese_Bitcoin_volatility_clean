@@ -76,7 +76,7 @@ The purpose of these transformations is to assess whether reducing skewness and 
 
 Model performance is evaluated using two complementary metrics:
 
-* Root Mean Squared Error;
+* Root Mean Squared Error (RMSE);
 * QLIKE loss.
 
 RMSE is used as the main accuracy metric, while QLIKE is included as a complementary loss function commonly used in volatility forecasting.
@@ -95,10 +95,6 @@ Tese_Bitcoin_volatility_clean/
 │
 ├── results/
 │   └── Figures/
-│
-├── docs/
-│
-├── src/
 │
 ├── .gitattributes
 ├── .gitignore
@@ -121,16 +117,6 @@ Contains the Jupyter notebooks used to run the exploratory analysis, model estim
 ### `results/Figures`
 
 Contains selected figures generated from the analysis.
-
-### `docs`
-
-Reserved for clean technical documentation related to the modelling framework and repository usage.
-
-### `src`
-
-Reserved for reusable Python modules and functions.
-
-At the current stage, most of the implementation is contained directly in the Jupyter notebooks.
 
 ---
 
