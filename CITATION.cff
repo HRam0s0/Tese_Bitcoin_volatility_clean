@@ -19,8 +19,7 @@ keywords
  ARIMA
  ETS
  ARCH
- GARCH
- support vector regression
+ SVR
  LSTM
  machine learning
  deep learning
