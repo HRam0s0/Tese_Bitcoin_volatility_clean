@@ -6,8 +6,8 @@ type software
 
 authors
 
- family-names Val de Ramos
-  given-names Hugo Miguel
+ Surname: do Val Ramos
+ Name: Hugo Miguel
 
 abstract Code and supporting materials for a dissertation project on Bitcoin volatility forecasting, comparing time-series, econometric, machine learning and deep learning models under a common forecasting framework.
 
